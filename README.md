@@ -4,7 +4,7 @@ The data is from a Portugese banking institution and is a collection of the resu
  The classification goal is to predict if the client will subscribe a term deposit (variable y). We perform K Nearest Neighbors,Logical Regression, Support Vector Classifier, Decision Tree Classifier and identify which performed best with this data and also identify the columns that matter the most .
 
 
-Dataset Used is found [here](/data/bank_additional.csv)  
+Dataset Used is found [here](/data/bank-additional.csv)  
 All the prompts given to achieve the below analysis can be found [here](/bank_predictdeposit.ipynb).  
 
 Here's a breakdown of the key steps and insights:
